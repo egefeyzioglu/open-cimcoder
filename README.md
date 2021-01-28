@@ -6,7 +6,7 @@ AndyMark CIMcoder'ın açık ve ücretsiz olarak yeniden dizayn edilmiş hali.
 
 ## Nasıl kullanılır?
 
-Parçaları verilen çizim ve CAD dosyalarına göre üretin ve normal bir CIMcoder'ı kullanacağınız şekilde kullanın. Eğer Altium Designer'a erişiminiz yoksa, [PDF çıktıyı](CIM Encoder.pdf) kullanabilirsiniz. Pin işlev şemasını devre kartının arkasında yer almaktadır.
+Parçaları verilen çizim ve CAD dosyalarına göre üretin ve normal bir CIMcoder'ı kullanacağınız şekilde kullanın. Eğer Altium Designer'a erişiminiz yoksa, [PDF çıktıyı](https://github.com/egefeyzioglu/open-cimcoder/blob/master/CIM%20Encoder.pdf) kullanabilirsiniz. Pin işlev şemasını devre kartının arkasında yer almaktadır.
 
 ---------
 
@@ -16,4 +16,4 @@ This is an open source recreation of the AndyMark CIMcoder, which is prohibitive
 
 ## Instructions to use
 
-Print the PCB and solder the components from the BOM. See the [PDF print](CIM Encoder.pdf) if you don't have access to Altium Designer. Mount to the CIM as you would a regular CIMcoder. Pinout is printed on the back of the board.
+Print the PCB and solder the components from the BOM. See the [PDF print](https://github.com/egefeyzioglu/open-cimcoder/blob/master/CIM%20Encoder.pdf) if you don't have access to Altium Designer. Mount to the CIM as you would a regular CIMcoder. Pinout is printed on the back of the board.
